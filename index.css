@@ -1,0 +1,51 @@
+
+* {
+    letter-spacing: 0.2em;
+  }
+  
+  .t-div {
+    background-color: rgba(202, 210, 197, 255);
+  }
+  
+  .git-div {
+    background-color: rgba(47, 61, 70, 255);
+    color: white;
+    width: 100%;
+  }
+  
+  .left-div {
+    background-color: rgba(53, 53, 53, 255);
+    width: 95%;
+    /* height: 35em; */
+    padding-top: 150%;
+    /* height */
+    border-radius: 1.5em
+  }
+  
+  .search-div {
+    width: 80%;
+    background-color: rgba(53, 53, 53, 255);
+    color: grey;
+    border-radius: 0.5em;
+  }
+  
+  .three-div {
+    background-color: rgba(53, 53, 53, 255);
+    width: 84%;
+    padding-top: 55%;
+    border-radius: 0.75em
+  }
+  
+  .last-div {
+    background-color: rgba(53, 53, 53, 255);
+    width: 100%;
+    padding-top: 23%;
+    border-radius: 1em
+  }
+
+
+
+
+
+
+
